@@ -8,7 +8,7 @@
       <ul style="text-align: left; padding-left: 20px;">
         <li>Hi, I’m Mathis</li>
         <li>Big fan of bullet points</li>
-        <li>Pursuing a Master in Signal Processing and Machine Learning<\li>
+        <li>Pursuing a Master in Signal Processing and Machine Learning</li>
         <li>Big fan of Multi-Agentic LLM stuff</li>
         <li>Big fan of self-hosting and homelabs</li>
         <li>Big fan of short lists</li>
